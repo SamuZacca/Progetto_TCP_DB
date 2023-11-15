@@ -1,0 +1,3 @@
+socket
+threading
+mysql.connector==8.0.33
