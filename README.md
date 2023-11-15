@@ -1,9 +1,9 @@
 # Progetto_TCP_DB
 
 ## 1) Clonare la repository:
-'''
+...
 git clone https://github.com/SamuZacca/Progetto_TCP_DB.git
-'''
+...
 
 ## 2) Importare le tabelle sql
 Importare clienti_samuele_zaccarelli.sql e zona_lavoro_samuele_zaccarelli.sql in un database in XAMPP.
